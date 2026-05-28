@@ -1,0 +1,7 @@
+parameter,units,total_readings,average_value,minimum_value,maximum_value,std_deviation
+co,ppm,727,0.263,0,1.1,0.196
+no2,ppm,666,0.027,0.003,0.133,0.023
+o3,ppm,728,0.021,0.002,0.047,0.013
+pm10,µg/m³,737,19.486,2,106,15.831
+pm25,µg/m³,737,5.741,0.8,39.9,4.562
+so2,ppm,689,0,0,0.003,0
